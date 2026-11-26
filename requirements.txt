@@ -1,0 +1,12 @@
+jupyterlab
+ipykernel
+networkx
+pandas==2.2.3
+pytz
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+python-louvain
+
